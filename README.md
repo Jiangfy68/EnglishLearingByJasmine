@@ -13,6 +13,12 @@
 ### Catalog
 
 
+**第十期**  [全英聊天（6）：倾国倾城怎么说？希腊神话第二弹！](https://www.bilibili.com/video/BV1Pt4y1x7ff?share_source=copy_web)
+- [markdown](全英聊天（6）：倾国倾城怎么说？希腊神话第二弹！.md)
+- [pdf](全英聊天（6）：倾国倾城怎么说？希腊神话第二弹！.pdf)
+---
+
+
 
 **第八期**  [口语方法分享（无稿）：对不起我是标题党哈哈哈 也不是什么秘籍啦 就是一些小小的经验分享～这次想好了structure 还是漏了一些点 下次再补充吧！](https://www.bilibili.com/video/BV1nS4y1a7V5?share_source=copy_web)
 - *本期视频为口语方法分享，视频中的方法总结位于mind map中，由于整个mind map 导出图片尺寸不适，故按照三个连续截图展示整个mind map。mind map图片下方包含纯文字层级的整理。*
